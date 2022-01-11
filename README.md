@@ -19,4 +19,7 @@ Again when review all the manufactured lots together for a t-test, the p-value o
 
 When runing t-tests on the subset of data by lot against the population mean of 1500, the only Lot3 has a p-value less than .05, allowing us to see that this lot's mean PSI is statistically different than the population.
 ## Study Design: MechaCar vs Competition 
-
+- Consumers care about the safty and mpg of a car, but also the lifetime maintenance cost. Knowing what that ongoing cost is expected to be, as well as purchase price can help customers make a more informed decision about their next car purchase. The lower the cost of a car upfront, the higher the maintance cost will be
+- Null hypothese: The lifttime mainenance cost of a car will not negatively coorlated to the purchase price
+- A linear regession could be used to test this hypothese
+- In order to do these tests, we'd need a data set including purchase price and the expected maintenance costs. 
